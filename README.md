@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hasnainkhan125
+- 👀 I’m interested in webdevelopre and app developre..
+- 🌱 I’m currently learning ai meachine learning...
+-
