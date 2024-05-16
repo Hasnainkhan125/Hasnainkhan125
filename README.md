@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Hasnainkhan125
-- 👀 I’m interested in webdevelopre and app developre..
-- 🌱 I’m currently learning ai meachine learning...
--
+A Professtional 3D Webdevelopre;
+
+🔭 I’m currently working on Backend Development And Frontend;
+
+🌱 I’m  learning artificial intelligence, 
+
+💬 💬 Ask me about Python.js, React, HTML, Css... or anything here Thanks,
+
+
+ 
